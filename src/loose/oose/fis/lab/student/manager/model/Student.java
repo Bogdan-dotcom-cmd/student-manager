@@ -12,16 +12,19 @@ public class Student {
     @Override
     public String toString() {
         //toString generated implementation
+        return " ";
     }
 
     @Override
     public boolean equals(Object o) {
         //equals generated implementation
+        return true;
     }
 
     @Override
     public int hashCode() {
         //hashCode generated implementation
+        return 0;
     }
 
     //generated getters and setters for all fields
